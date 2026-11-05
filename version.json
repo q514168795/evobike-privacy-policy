@@ -1,0 +1,8 @@
+{
+  "app_version_code": 1,
+  "app_version_name": "1.0",
+  "app_apk_url": "",
+  "app_update_notes": "1. 支持车架号/VIN 智能识别与归一化\n2. 4300+ 离线配件图纸与二段式防错\n3. 现场巡查考核评分与微信长图分享",
+  "app_update_notes_es": "1. Reconocimiento e normalización inteligente de VIN/Chasis\n2. Más de 4300 fotos de refacciones y confirmación visual\n3. Evaluación en sitio y reporte completo para WeChat",
+  "min_version_code": 1
+}
