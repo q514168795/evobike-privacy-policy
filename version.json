@@ -4,5 +4,5 @@
   "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.1/EVObike_Inventory_Release.apk",
   "app_update_notes": "1. 接入 GitHub 全自动热更新体系，支持平滑自检与升级\n2. 现场巡查考核评分表全新适配 A4 300DPI 满版高清打印\n3. 评分汇总表恢复全宽排版，彻底解决文字截断与模糊问题\n4. 全局字号饱满加粗，清晰度大幅提升",
   "app_update_notes_es": "1. Actualización automática vía GitHub\n2. Formato de evaluación en sitio optimizado para impresión A4 (300 DPI)\n3. Corrección de visualización completa del resumen de calificación\n4. Tipografía ampliada con mayor nitidez y contraste",
-  "min_version_code": 1
+  "min_version_code": 2
 }
