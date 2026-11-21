@@ -1,8 +1,8 @@
 {
-  "app_version_code": 6,
-  "app_version_name": "1.5",
-  "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.5/EVObike_Inventory_Release.apk",
-  "app_update_notes": "1. 修复残车缺件明细在修改车型或状态时被级联清空的缺陷，修复底表/表外残车状态窜改\n2. 修复折叠屏展开态已盘数量统计、竖屏扫码底栏边距并按规范移除编码/库位展示\n3. 优化巡查评分 A4 报表后台渲染与内存释放，修复导出页待盘点数统计恒为0与首页进度条分母口径\n4. 修复 Excel 模板导入行号对齐与标题判断；全面纠正 26 项配件与充电器错配图，修正挂锁(CANDADO)、打气筒、外套等图片关联",
-  "app_update_notes_es": "1. Corrección de pérdida de piezas registradas en vehículos dañados y preservación de tipo de origen\n2. Mejoras de UI en pantalla plegable y escáner vertical (márgenes y omisión de código/ubicación)\n3. Optimización de memoria en reportes A4 de inspección; corrección de conteo pendiente en exportación\n4. Corrección en importación de plantillas Excel y depuración de catálogo de imágenes (candados, cargadores y accesorios)",
-  "min_version_code": 4
+  "app_version_code": 7,
+  "app_version_name": "1.6",
+  "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.6/EVObike_Inventory_Release.apk",
+  "app_update_notes": "1. 修正 Aguascalientes 仓库地址为 San Francisco de los Romo-Aguascalientes 81, C.P. 20906 Jesús Gómez Portugal, Ags.\n2. 本次为全员强制更新至 v1.6，请点击立即更新完成升级。",
+  "app_update_notes_es": "1. Corrección de la dirección del almacén Aguascalientes: San Francisco de los Romo-Aguascalientes 81, C.P. 20906 Jesús Gómez Portugal, Ags.\n2. Actualización obligatoria a v1.6. Toque en Actualizar ahora para continuar.",
+  "min_version_code": 7
 }
