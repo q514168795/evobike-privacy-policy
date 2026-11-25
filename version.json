@@ -1,8 +1,8 @@
 {
-  "app_version_code": 10,
-  "app_version_name": "1.9",
-  "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.9/EVObike_Inventory_Release.apk",
-  "app_update_notes": "1. 门店通讯录与考核页统一黑白灰风格，修复标签挤压断行，支持自动定位显示最近门店\n2. 首页黑色扫码框高度调至 1.1 倍；扫码手工输入弹窗精简为单行输入\n3. 缩小导出报表签字弹窗与表格内嵌签名图尺寸；修正 GUADALAJARA CENTRO 地址\n4. 全员强制更新至 v1.9，请点击立即更新完成升级",
-  "app_update_notes_es": "1. Directorio y evaluación unificados en estilo blanco y negro, sin saltos de línea y con tienda más cercana por ubicación\n2. Tarjeta de escaneo ampliada 1.1x y captura manual simplificada a una sola línea\n3. Firma de exportación más compacta en pantalla y en Excel; corrección de dirección en GUADALAJARA CENTRO\n4. Actualización obligatoria a v1.9. Toque en Actualizar ahora para continuar",
-  "min_version_code": 10
+  "app_version_code": 11,
+  "app_version_name": "1.10",
+  "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.10/EVObike_Inventory_Release.apk",
+  "app_update_notes": "1. 修正门帘、硬顶车棚、尾箱、雨衣等外配图片错印编号与错挂主图，补回 S6 充电器对照图\n2. 外配大图对照弹窗新增「参考图原编号」提示，复用参考图一目了然\n3. 蓝雨衣解除红雨衣错挂，无原厂实图项保持安全占位\n4. 全员强制更新至 v1.10，请点击立即更新完成升级",
+  "app_update_notes_es": "1. Corrección de códigos mal impresos e imágenes cruzadas en accesorios (cortinas, toldos, cajuela, impermeable, casco, espejos) y enlace del cargador S6\n2. Nueva línea con el código de imagen de referencia en el diálogo de comparación\n3. Actualización obligatoria a v1.10. Toque en Actualizar ahora para continuar",
+  "min_version_code": 11
 }
