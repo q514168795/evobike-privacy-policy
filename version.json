@@ -1,8 +1,8 @@
 {
-  "app_version_code": 11,
-  "app_version_name": "1.10",
-  "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.10/EVObike_Inventory_Release.apk",
-  "app_update_notes": "1. 修正门帘、硬顶车棚、尾箱、雨衣等外配图片错印编号与错挂主图，补回 S6 充电器对照图\n2. 外配大图对照弹窗新增「参考图原编号」提示，复用参考图一目了然\n3. 蓝雨衣解除红雨衣错挂，无原厂实图项保持安全占位\n4. 全员强制更新至 v1.10，请点击立即更新完成升级",
-  "app_update_notes_es": "1. Corrección de códigos mal impresos e imágenes cruzadas en accesorios (cortinas, toldos, cajuela, impermeable, casco, espejos) y enlace del cargador S6\n2. Nueva línea con el código de imagen de referencia en el diálogo de comparación\n3. Actualización obligatoria a v1.10. Toque en Actualizar ahora para continuar",
-  "min_version_code": 11
+  "app_version_code": 12,
+  "app_version_name": "1.11",
+  "app_apk_url": "https://github.com/q514168795/evobike-privacy-policy/releases/download/v1.11/EVObike_Inventory_Release.apk",
+  "app_update_notes": "1. 巡查考核接入残车红线自动扣分（4~8台扣一半，超8台0分），换新门店自动清草稿\n2. 修复外配看图弹窗改数不同步、残车模式扫码音、导出流水涂绿及老系统打开报错\n3. 优化多处折叠屏界面细节（清理重复按钮、营业时间完整显示、去切字并补全西语），包体瘦身至 74MB\n4. 全员强制更新至 v1.11，请点击立即更新完成升级",
+  "app_update_notes_es": "1. Deducción automática en inspección por unidades dañadas (4-8: 50%, >8: 0) y limpieza de borrador al cambiar sucursal\n2. Sincronización de cantidad al editar desde foto, sonido de modo dañado, color verde en Excel y mejora de exportación\n3. Mejoras de interfaz en pantalla plegable y traducciones al español; paquete reducido a 74MB\n4. Actualización obligatoria a v1.11. Toque en Actualizar ahora para continuar",
+  "min_version_code": 12
 }
